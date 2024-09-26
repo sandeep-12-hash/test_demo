@@ -1,1 +1,2 @@
 cloud computing is the service provider of aws
+and also azure
